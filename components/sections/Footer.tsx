@@ -25,13 +25,15 @@ export default function Footer() {
           </div>
 
           <div className="flex flex-col items-center md:items-end justify-center gap-4">
-            <div className="flex flex-col items-center gap-3 p-6 rounded-2xl border border-border
+            <a href="https://linktr.ee/srms" target="_blank" rel="noopener noreferrer"
+              className="flex flex-col items-center gap-3 p-6 rounded-2xl border border-border
               hover:border-accent/40 transition-colors duration-300">
               <img src="/qr-code.svg" alt="SRMS QR Code" className="w-36 h-36" />
               <p className="text-xs text-text-muted text-center font-medium uppercase tracking-wider">
                 Scan to visit
               </p>
-            </div>
+              <p className="text-xs text-accent font-medium">linktr.ee/srms</p>
+            </a>
           </div>
         </div>
 
