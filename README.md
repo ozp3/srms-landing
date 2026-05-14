@@ -54,6 +54,6 @@ Open [http://localhost:3000](http://localhost:3000).
 | Tuna Alan | TA |
 | Arda Başdere | AB |
 
-**Supervisor:** Dr. Arda SEZEN  
+**Supervisor:** Asst. Prof. Dr. Arda SEZEN  
 **University:** Atılım Üniversitesi  
 **Course:** CMPE/ISE/SE 494 — Graduation Project (2025–26)
