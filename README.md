@@ -1,4 +1,4 @@
-# SRMS — Smart Reporting and Management System
+# SRMS - Smart Reporting and Management System
 
 **Akıllı Raporlama ve Yönetim Sistemi**  
 Landing page for the SRMS graduation project by Team Vexra, Atılım University.
@@ -56,4 +56,4 @@ Open [http://localhost:3000](http://localhost:3000).
 
 **Supervisor:** Asst. Prof. Dr. Arda SEZEN  
 **University:** Atılım Üniversitesi  
-**Course:** CMPE/ISE/SE 494 — Graduation Project (2025–26)
+**Course:** CMPE/ISE/SE 494 - Graduation Project (2025–26)
