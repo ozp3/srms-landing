@@ -9,6 +9,7 @@ import AIPipeline from "@/components/sections/AIPipeline";
 import ApplicationAreas from "@/components/sections/ApplicationAreas";
 import Team from "@/components/sections/Team";
 import References from "@/components/sections/References";
+import Contact from "@/components/sections/Contact";
 import Footer from "@/components/sections/Footer";
 
 export default function Home() {
@@ -25,6 +26,7 @@ export default function Home() {
       <ApplicationAreas />
       <Team />
       <References />
+      <Contact />
       <Footer />
     </main>
   );
