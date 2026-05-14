@@ -16,7 +16,7 @@ export default function DemoShowcase() {
             Sistemin Kullanımı
           </h2>
           <p className="text-text-muted text-lg max-w-xl mx-auto">
-            Gerçek uygulama kayıtları — mobil raporlama ve web yönetim paneli.
+            Gerçek uygulama kayıtları, mobil raporlama ve web yönetim paneli.
           </p>
         </motion.div>
 

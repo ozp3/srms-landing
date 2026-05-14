@@ -5,7 +5,7 @@ export const siteConfig = {
   teamName: "Vexra",
   university: "Atılım Üniversitesi",
   course: "CMPE/ISE/SE 494 | Graduation Project",
-  supervisor: "Dr. Arda SEZEN",
+  supervisor: "Yrd. Doç. Dr. Arda SEZEN",
   year: "2025–26",
 };
 
