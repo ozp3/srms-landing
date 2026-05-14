@@ -25,8 +25,8 @@ export default function Home() {
       <AIPipeline />
       <ApplicationAreas />
       <Team />
-      <References />
       <Contact />
+      <References />
       <Footer />
     </main>
   );

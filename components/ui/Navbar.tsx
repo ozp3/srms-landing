@@ -12,6 +12,7 @@ const navLinks = [
   { label: "Özellikler", href: "#ozellikler" },
   { label: "AI Pipeline", href: "#ai-pipeline" },
   { label: "Takım", href: "#takim" },
+  { label: "İletişim", href: "#iletisim" },
 ];
 
 export default function Navbar() {
